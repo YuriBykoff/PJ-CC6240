@@ -1,4 +1,4 @@
-# Projeto 2 - Wide-column Store
+# Projeto 3 - Graph Database
 
 ## Requisitos
 
