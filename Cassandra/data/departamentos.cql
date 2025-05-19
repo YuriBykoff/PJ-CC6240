@@ -1,0 +1,10 @@
+INSERT INTO departamento (id_departamento, nome, id_chefe_departamento, disciplinas) VALUES (1, 'Ferreira', 11, { 'Inteligência Artificial e Robótica', 'Gestão de Projeto de Software' });
+INSERT INTO departamento (id_departamento, nome, id_chefe_departamento, disciplinas) VALUES (2, 'Sales da Costa Ltda.', 18, { 'Trabalho de Final de Curso' });
+INSERT INTO departamento (id_departamento, nome, id_chefe_departamento, disciplinas) VALUES (3, 'Monteiro e Filhos', 15, { 'Bancos de Dados Avançados' });
+INSERT INTO departamento (id_departamento, nome, id_chefe_departamento, disciplinas) VALUES (4, 'Gonçalves', 19, { 'Sistemas Distribuídos', 'Bancos de Dados Avançados', 'Tópicos Avançados de Engenharia de Software' });
+INSERT INTO departamento (id_departamento, nome, id_chefe_departamento, disciplinas) VALUES (5, 'Sales', 13, { 'Sistemas Distribuídos', 'Tópicos Avançados de Engenharia de Software', 'Desenvolvimento de Jogo' });
+INSERT INTO departamento (id_departamento, nome, id_chefe_departamento, disciplinas) VALUES (6, 'da Rosa e Filhos', 2, { 'Tópicos Avançados de Engenharia de Software', 'Bancos de Dados Avançados' });
+INSERT INTO departamento (id_departamento, nome, id_chefe_departamento, disciplinas) VALUES (7, 'Teixeira Ltda.', 3, { 'Trabalho de Final de Curso', 'Sistemas Distribuídos', 'Desenvolvimento de Jogo' });
+INSERT INTO departamento (id_departamento, nome, id_chefe_departamento, disciplinas) VALUES (8, 'Costela', 5, { 'Gestão de Projeto de Software', 'Inteligência Artificial e Robótica' });
+INSERT INTO departamento (id_departamento, nome, id_chefe_departamento, disciplinas) VALUES (9, 'Caldeira e Filhos', 9, { 'Desenvolvimento de Jogo' });
+INSERT INTO departamento (id_departamento, nome, id_chefe_departamento, disciplinas) VALUES (10, 'Alves - EI', 4, { 'Inteligência Artificial e Robótica', 'Sistemas Distribuídos' });

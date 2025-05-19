@@ -1,0 +1,102 @@
+[
+    {
+        "_id": 1,
+        "codigo": "INF169",
+        "nome": "Tópicos Avançados de Engenharia de Software"
+    },
+    {
+        "_id": 2,
+        "codigo": "HIS353",
+        "nome": "Trabalho de Final de Curso"
+    },
+    {
+        "_id": 3,
+        "codigo": "BIO401",
+        "nome": "Trabalho de Final de Curso"
+    },
+    {
+        "_id": 4,
+        "codigo": "INF670",
+        "nome": "Tópicos Avançados de Engenharia de Software"
+    },
+    {
+        "_id": 5,
+        "codigo": "ENG366",
+        "nome": "Bancos de Dados Avançados"
+    },
+    {
+        "_id": 6,
+        "codigo": "BIO632",
+        "nome": "Trabalho de Final de Curso"
+    },
+    {
+        "_id": 7,
+        "codigo": "BIO426",
+        "nome": "Gestão de Projeto de Software"
+    },
+    {
+        "_id": 8,
+        "codigo": "FIS624",
+        "nome": "Trabalho de Final de Curso"
+    },
+    {
+        "_id": 9,
+        "codigo": "INF456",
+        "nome": "Tópicos Avançados de Engenharia de Software"
+    },
+    {
+        "_id": 10,
+        "codigo": "INF657",
+        "nome": "Tópicos Avançados de Engenharia de Software"
+    },
+    {
+        "_id": 11,
+        "codigo": "INF626",
+        "nome": "Trabalho de Final de Curso"
+    },
+    {
+        "_id": 12,
+        "codigo": "ENG478",
+        "nome": "Bancos de Dados Avançados"
+    },
+    {
+        "_id": 13,
+        "codigo": "INF607",
+        "nome": "Bancos de Dados Avançados"
+    },
+    {
+        "_id": 14,
+        "codigo": "HIS355",
+        "nome": "Desenvolvimento de Jogo"
+    },
+    {
+        "_id": 15,
+        "codigo": "QUI643",
+        "nome": "Desenvolvimento de Jogo"
+    },
+    {
+        "_id": 16,
+        "codigo": "ENG399",
+        "nome": "Gestão de Projeto de Software"
+    },
+    {
+        "_id": 17,
+        "codigo": "ENG301",
+        "nome": "Sistemas Distribuídos"
+    },
+    {
+        "_id": 18,
+        "codigo": "HIS335",
+        "nome": "Tópicos Avançados de Engenharia de Software"
+    },
+    {
+        "_id": 19,
+        "codigo": "QUI188",
+        "nome": "Gestão de Projeto de Software"
+    },
+    {
+        "_id": 20,
+        "codigo": "FIS188",
+        "nome": "Bancos de Dados Avançados"
+    }
+]

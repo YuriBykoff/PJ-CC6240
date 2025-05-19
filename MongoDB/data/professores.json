@@ -1,0 +1,482 @@
+[
+    {
+        "_id": 1,
+        "nome": "Clara Costa",
+        "departamento_id": 7,
+        "eh_chefe": true,
+        "disciplinas_ministradas": [
+            {
+                "disciplina_id": 17,
+                "semestre": "2018.1",
+                "ano": 2018
+            },
+            {
+                "disciplina_id": 5,
+                "semestre": "2020.1",
+                "ano": 2020
+            }
+        ]
+    },
+    {
+        "_id": 2,
+        "nome": "Sr. Leandro Almeida",
+        "departamento_id": 8,
+        "eh_chefe": true,
+        "disciplinas_ministradas": [
+            {
+                "disciplina_id": 5,
+                "semestre": "2023.1",
+                "ano": 2023
+            },
+            {
+                "disciplina_id": 14,
+                "semestre": "2023.2",
+                "ano": 2023
+            }
+        ]
+    },
+    {
+        "_id": 3,
+        "nome": "Gabriel Câmara",
+        "departamento_id": 9,
+        "eh_chefe": true,
+        "disciplinas_ministradas": [
+            {
+                "disciplina_id": 1,
+                "semestre": "2025.1",
+                "ano": 2025
+            },
+            {
+                "disciplina_id": 5,
+                "semestre": "2024.2",
+                "ano": 2024
+            },
+            {
+                "disciplina_id": 2,
+                "semestre": "2024.1",
+                "ano": 2024
+            },
+            {
+                "disciplina_id": 15,
+                "semestre": "2020.2",
+                "ano": 2020
+            }
+        ]
+    },
+    {
+        "_id": 4,
+        "nome": "Srta. Maria Luísa Moreira",
+        "departamento_id": 3,
+        "eh_chefe": true,
+        "disciplinas_ministradas": [
+            {
+                "disciplina_id": 1,
+                "semestre": "2025.1",
+                "ano": 2025
+            },
+            {
+                "disciplina_id": 16,
+                "semestre": "2019.2",
+                "ano": 2019
+            }
+        ]
+    },
+    {
+        "_id": 5,
+        "nome": "Oliver Almeida",
+        "departamento_id": 2,
+        "eh_chefe": true,
+        "disciplinas_ministradas": [
+            {
+                "disciplina_id": 15,
+                "semestre": "2020.1",
+                "ano": 2020
+            },
+            {
+                "disciplina_id": 6,
+                "semestre": "2022.1",
+                "ano": 2022
+            },
+            {
+                "disciplina_id": 11,
+                "semestre": "2024.1",
+                "ano": 2024
+            },
+            {
+                "disciplina_id": 9,
+                "semestre": "2023.1",
+                "ano": 2023
+            }
+        ]
+    },
+    {
+        "_id": 6,
+        "nome": "Maria Flor Pastor",
+        "departamento_id": 5,
+        "eh_chefe": true,
+        "disciplinas_ministradas": [
+            {
+                "disciplina_id": 19,
+                "semestre": "2020.2",
+                "ano": 2020
+            },
+            {
+                "disciplina_id": 18,
+                "semestre": "2019.2",
+                "ano": 2019
+            },
+            {
+                "disciplina_id": 10,
+                "semestre": "2024.2",
+                "ano": 2024
+            },
+            {
+                "disciplina_id": 12,
+                "semestre": "2019.1",
+                "ano": 2019
+            }
+        ]
+    },
+    {
+        "_id": 7,
+        "nome": "Sra. Ana Luiza Alves",
+        "departamento_id": 1,
+        "eh_chefe": true,
+        "disciplinas_ministradas": [
+            {
+                "disciplina_id": 17,
+                "semestre": "2024.1",
+                "ano": 2024
+            },
+            {
+                "disciplina_id": 19,
+                "semestre": "2025.1",
+                "ano": 2025
+            }
+        ]
+    },
+    {
+        "_id": 8,
+        "nome": "Melissa Sales",
+        "departamento_id": 4,
+        "eh_chefe": true,
+        "disciplinas_ministradas": [
+            {
+                "disciplina_id": 4,
+                "semestre": "2025.2",
+                "ano": 2025
+            },
+            {
+                "disciplina_id": 12,
+                "semestre": "2020.2",
+                "ano": 2020
+            },
+            {
+                "disciplina_id": 19,
+                "semestre": "2024.2",
+                "ano": 2024
+            }
+        ]
+    },
+    {
+        "_id": 9,
+        "nome": "Sarah Aparecida",
+        "departamento_id": 6,
+        "eh_chefe": true,
+        "disciplinas_ministradas": [
+            {
+                "disciplina_id": 15,
+                "semestre": "2025.2",
+                "ano": 2025
+            },
+            {
+                "disciplina_id": 3,
+                "semestre": "2018.2",
+                "ano": 2018
+            }
+        ]
+    },
+    {
+        "_id": 10,
+        "nome": "Sabrina Novaes",
+        "departamento_id": 10,
+        "eh_chefe": true,
+        "disciplinas_ministradas": [
+            {
+                "disciplina_id": 16,
+                "semestre": "2022.2",
+                "ano": 2022
+            },
+            {
+                "disciplina_id": 20,
+                "semestre": "2020.1",
+                "ano": 2020
+            },
+            {
+                "disciplina_id": 15,
+                "semestre": "2020.2",
+                "ano": 2020
+            }
+        ]
+    },
+    {
+        "_id": 11,
+        "nome": "Gabriela Oliveira",
+        "departamento_id": 8,
+        "eh_chefe": false,
+        "disciplinas_ministradas": [
+            {
+                "disciplina_id": 12,
+                "semestre": "2020.2",
+                "ano": 2020
+            },
+            {
+                "disciplina_id": 8,
+                "semestre": "2022.1",
+                "ano": 2022
+            }
+        ]
+    },
+    {
+        "_id": 12,
+        "nome": "Luana Pereira",
+        "departamento_id": 3,
+        "eh_chefe": false,
+        "disciplinas_ministradas": [
+            {
+                "disciplina_id": 20,
+                "semestre": "2024.1",
+                "ano": 2024
+            },
+            {
+                "disciplina_id": 3,
+                "semestre": "2019.1",
+                "ano": 2019
+            },
+            {
+                "disciplina_id": 11,
+                "semestre": "2022.1",
+                "ano": 2022
+            }
+        ]
+    },
+    {
+        "_id": 13,
+        "nome": "Maria Flor Monteiro",
+        "departamento_id": 4,
+        "eh_chefe": false,
+        "disciplinas_ministradas": [
+            {
+                "disciplina_id": 4,
+                "semestre": "2021.1",
+                "ano": 2021
+            },
+            {
+                "disciplina_id": 18,
+                "semestre": "2020.1",
+                "ano": 2020
+            },
+            {
+                "disciplina_id": 20,
+                "semestre": "2023.2",
+                "ano": 2023
+            },
+            {
+                "disciplina_id": 16,
+                "semestre": "2021.1",
+                "ano": 2021
+            }
+        ]
+    },
+    {
+        "_id": 14,
+        "nome": "Julia Abreu",
+        "departamento_id": 6,
+        "eh_chefe": false,
+        "disciplinas_ministradas": [
+            {
+                "disciplina_id": 7,
+                "semestre": "2020.2",
+                "ano": 2020
+            },
+            {
+                "disciplina_id": 3,
+                "semestre": "2022.1",
+                "ano": 2022
+            },
+            {
+                "disciplina_id": 17,
+                "semestre": "2019.1",
+                "ano": 2019
+            },
+            {
+                "disciplina_id": 18,
+                "semestre": "2021.2",
+                "ano": 2021
+            },
+            {
+                "disciplina_id": 12,
+                "semestre": "2022.1",
+                "ano": 2022
+            }
+        ]
+    },
+    {
+        "_id": 15,
+        "nome": "Srta. Manuella Mendes",
+        "departamento_id": 8,
+        "eh_chefe": false,
+        "disciplinas_ministradas": [
+            {
+                "disciplina_id": 13,
+                "semestre": "2020.2",
+                "ano": 2020
+            },
+            {
+                "disciplina_id": 3,
+                "semestre": "2021.2",
+                "ano": 2021
+            },
+            {
+                "disciplina_id": 17,
+                "semestre": "2019.1",
+                "ano": 2019
+            }
+        ]
+    },
+    {
+        "_id": 16,
+        "nome": "Emilly Pereira",
+        "departamento_id": 9,
+        "eh_chefe": false,
+        "disciplinas_ministradas": [
+            {
+                "disciplina_id": 14,
+                "semestre": "2025.2",
+                "ano": 2025
+            },
+            {
+                "disciplina_id": 18,
+                "semestre": "2022.1",
+                "ano": 2022
+            },
+            {
+                "disciplina_id": 20,
+                "semestre": "2020.1",
+                "ano": 2020
+            },
+            {
+                "disciplina_id": 3,
+                "semestre": "2021.1",
+                "ano": 2021
+            }
+        ]
+    },
+    {
+        "_id": 17,
+        "nome": "Agatha Mendonça",
+        "departamento_id": 9,
+        "eh_chefe": false,
+        "disciplinas_ministradas": [
+            {
+                "disciplina_id": 20,
+                "semestre": "2023.2",
+                "ano": 2023
+            },
+            {
+                "disciplina_id": 1,
+                "semestre": "2021.2",
+                "ano": 2021
+            },
+            {
+                "disciplina_id": 17,
+                "semestre": "2023.2",
+                "ano": 2023
+            },
+            {
+                "disciplina_id": 15,
+                "semestre": "2019.1",
+                "ano": 2019
+            }
+        ]
+    },
+    {
+        "_id": 18,
+        "nome": "Dra. Ayla Rocha",
+        "departamento_id": 2,
+        "eh_chefe": false,
+        "disciplinas_ministradas": [
+            {
+                "disciplina_id": 12,
+                "semestre": "2020.2",
+                "ano": 2020
+            },
+            {
+                "disciplina_id": 14,
+                "semestre": "2024.2",
+                "ano": 2024
+            }
+        ]
+    },
+    {
+        "_id": 19,
+        "nome": "Bianca Carvalho",
+        "departamento_id": 6,
+        "eh_chefe": false,
+        "disciplinas_ministradas": [
+            {
+                "disciplina_id": 18,
+                "semestre": "2019.2",
+                "ano": 2019
+            },
+            {
+                "disciplina_id": 17,
+                "semestre": "2018.2",
+                "ano": 2018
+            },
+            {
+                "disciplina_id": 4,
+                "semestre": "2022.2",
+                "ano": 2022
+            },
+            {
+                "disciplina_id": 6,
+                "semestre": "2020.2",
+                "ano": 2020
+            },
+            {
+                "disciplina_id": 8,
+                "semestre": "2024.2",
+                "ano": 2024
+            }
+        ]
+    },
+    {
+        "_id": 20,
+        "nome": "Bruno da Cruz",
+        "departamento_id": 8,
+        "eh_chefe": false,
+        "disciplinas_ministradas": [
+            {
+                "disciplina_id": 6,
+                "semestre": "2024.2",
+                "ano": 2024
+            },
+            {
+                "disciplina_id": 2,
+                "semestre": "2020.2",
+                "ano": 2020
+            },
+            {
+                "disciplina_id": 1,
+                "semestre": "2020.2",
+                "ano": 2020
+            },
+            {
+                "disciplina_id": 18,
+                "semestre": "2022.2",
+                "ano": 2022
+            }
+        ]
+    }
+]
